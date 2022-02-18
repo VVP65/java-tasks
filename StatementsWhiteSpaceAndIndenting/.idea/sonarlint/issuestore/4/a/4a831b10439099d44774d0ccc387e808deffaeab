@@ -1,0 +1,7 @@
+
+S
+java:S1854	">Remove this useless assignment to local variable "myVariable".(‰î A
+E
+java:S1481"/Remove this unused "myVariable" local variable.(Þ²äÏ
+Z	java:S106
+"9Replace this use of System.out or System.err by a logger.(Ò«ô§ýÿÿÿÿ8õ‹™àË/

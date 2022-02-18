@@ -1,0 +1,8 @@
+
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ï±é˜ûÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(â¢¸‚
+]	java:S125"<This block of commented-out lines of code should be removed.(ñŸÀÅûÿÿÿÿ8„Ã÷»Î/
+w
+java:S1488"bImmediately return this expression instead of assigning it to the temporary variable "circleArea".(ìøj
+z
+java:S1488"dImmediately return this expression instead of assigning it to the temporary variable "triangleArea".(™‡ÊŸ

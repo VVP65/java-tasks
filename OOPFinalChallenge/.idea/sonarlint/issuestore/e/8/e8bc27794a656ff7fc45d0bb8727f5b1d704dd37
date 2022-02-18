@@ -1,0 +1,12 @@
+
+T	java:S1062"9Replace this use of System.out or System.err by a logger.(†ğŠ68ËâÄ¢Ô/
+Z	java:S1066"9Replace this use of System.out or System.err by a logger.(«¦Çöıÿÿÿÿ8ÌâÄ¢Ô/
+Z	java:S106;"9Replace this use of System.out or System.err by a logger.(‰¬øÍşÿÿÿÿ8ÌâÄ¢Ô/
+U	java:S106@"9Replace this use of System.out or System.err by a logger.(ÛæÔÁ8ÌâÄ¢Ô/
+Z	java:S106E"9Replace this use of System.out or System.err by a logger.(ä«ÊŸıÿÿÿÿ8ÍâÄ¢Ô/
+C
+java:S1068"(Remove this unused "meat" private field.(Ùíï¤ÿÿÿÿÿ
+q
+java:S11926"ODefine a constant instead of duplicating this literal " for an extra " 4 times.(«¦Çöıÿÿÿÿ8ÍâÄ¢Ô/
+i
+java:S11926"GDefine a constant instead of duplicating this literal "Added " 4 times.(«¦Çöıÿÿÿÿ8ÍâÄ¢Ô/

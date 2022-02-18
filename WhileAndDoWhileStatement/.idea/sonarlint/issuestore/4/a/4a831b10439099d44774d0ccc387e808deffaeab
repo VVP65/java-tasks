@@ -1,0 +1,15 @@
+
+S	java:S106"9Replace this use of System.out or System.err by a logger.(àãî›øÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ªÓ¼áþÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(àãî›øÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ªÓ¼áþÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(àãî›øÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ªÓ¼áþÿÿÿÿ
+S	java:S106!"9Replace this use of System.out or System.err by a logger.(šÏ‘ùøÿÿÿÿ
+S	java:S106*"9Replace this use of System.out or System.err by a logger.(ªÓ¼áþÿÿÿÿ
+N	java:S1067"9Replace this use of System.out or System.err by a logger.(«¥ƒò
+S	java:S106B"9Replace this use of System.out or System.err by a logger.(ÛàÒ…ûÿÿÿÿ
+N	java:S106D"9Replace this use of System.out or System.err by a logger.(­ùûì
+k
+java:S1192"PDefine a constant instead of duplicating this literal "Count value is " 3 times.(àãî›øÿÿÿÿ
+s	java:S1351"YReduce the total number of break and continue statements in this loop to use at most one.(ÑÚ™Ÿûÿÿÿÿ

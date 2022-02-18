@@ -1,0 +1,30 @@
+
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Áå¨ÿÿÿÿÿ
+`	java:S128)"LEnd this switch case with an unconditional break, return or throw statement.(û¿4
+7	java:S131""Add a default case to this switch.(¨ÕÉ
+S	java:S1063"9Replace this use of System.out or System.err by a logger.(Ö€¦ºÿÿÿÿÿ
+S	java:S1064"9Replace this use of System.out or System.err by a logger.(Ÿã‡Şüÿÿÿÿ
+N	java:S1065"9Replace this use of System.out or System.err by a logger.(êƒâ½
+N	java:S1066"9Replace this use of System.out or System.err by a logger.(ë‹ã¬
+S	java:S1067"9Replace this use of System.out or System.err by a logger.(ÃÖû–ûÿÿÿÿ
+N	java:S1068"9Replace this use of System.out or System.err by a logger.(£¶ÔÂ
+N	java:S1069"9Replace this use of System.out or System.err by a logger.(·¤¥’
+S	java:S106:"9Replace this use of System.out or System.err by a logger.(ÈÆÙÀÿÿÿÿÿ
+S	java:S106;"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ
+M	java:S106?"9Replace this use of System.out or System.err by a logger.(¬À¹
+S	java:S106D"9Replace this use of System.out or System.err by a logger.(âÊÏ›øÿÿÿÿ
+S	java:S106F"9Replace this use of System.out or System.err by a logger.(äëé×şÿÿÿÿ
+S	java:S106L"9Replace this use of System.out or System.err by a logger.(ÖáÀıÿÿÿÿ
+N	java:S106R"9Replace this use of System.out or System.err by a logger.(öº¡ª
+S	java:S106V"9Replace this use of System.out or System.err by a logger.(Ş•Úùúÿÿÿÿ
+N	java:S106X"9Replace this use of System.out or System.err by a logger.(Æ•­ù
+V
+java:S1854c";Remove this useless assignment to local variable "myArray".(„ŠÛ¶ıÿÿÿÿ
+S
+java:S1854`"=Remove this useless assignment to local variable "nextArray".(·üºŠ
+t
+java:S2293]"YReplace the type specification in this constructor call with the diamond operator ("<>").(Å¼¢ûùÿÿÿÿ
+o
+java:S2293`"YReplace the type specification in this constructor call with the diamond operator ("<>").(·üºŠ
+D
+java:S1481`".Remove this unused "nextArray" local variable.(·üºŠ

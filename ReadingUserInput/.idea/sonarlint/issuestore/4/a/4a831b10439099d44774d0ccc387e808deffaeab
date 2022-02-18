@@ -1,0 +1,11 @@
+
+Y
+java:S1854">Remove this useless assignment to local variable "hasNextInt".(Ê’°Âÿÿÿÿÿ
+S	java:S106
+"9Replace this use of System.out or System.err by a logger.(ªÂûıÿÿÿÿ
+J
+java:S1481"/Remove this unused "hasNextInt" local variable.(Ê’°Âÿÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(òÙŸÑÿÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ÈıÂşÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(’ıè
+S	java:S106"9Replace this use of System.out or System.err by a logger.(¯š§€ıÿÿÿÿ

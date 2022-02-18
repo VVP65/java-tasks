@@ -1,0 +1,11 @@
+
+v
+java:S2293+"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ì‹†é8óÁ±á×/
+E
+java:S1068"(Remove this unused "name" private field.(Ë¥¼8ôÁ±á×/
+L
+java:S1068"*Remove this unused "artist" private field.(†ğÖŠıÿÿÿÿ8ôÁ±á×/
+‘
+java:S1319"tThe type of the "playlist" object should be an interface such as "List" rather than the implementation "LinkedList".(µ¦¬„8õÁ±á×/
+‘
+java:S1319"tThe type of the "playlist" object should be an interface such as "List" rather than the implementation "LinkedList".(ÏÆê‰8õÁ±á×/

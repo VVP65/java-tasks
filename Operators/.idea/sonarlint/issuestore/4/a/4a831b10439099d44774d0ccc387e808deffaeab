@@ -1,0 +1,23 @@
+
+S	java:S106"9Replace this use of System.out or System.err by a logger.(æğò•ùÿÿÿÿ
+S	java:S106	"9Replace this use of System.out or System.err by a logger.(ÜƒÂÚşÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Ğ’¸¥
+S	java:S106"9Replace this use of System.out or System.err by a logger.(¸ô´úÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(¤ğ¯¯úÿÿÿÿ
+V	java:S125"<This block of commented-out lines of code should be removed.(îúìÈşÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(¿šŒüûÿÿÿÿ
+=
+java:S1125"'Remove the unnecessary boolean literal.(ÿÒ˜û
+N	java:S106"9Replace this use of System.out or System.err by a logger.(¬íğÜ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Üâ®„ıÿÿÿÿ
+>
+java:S1125!"(Remove the unnecessary boolean literals.(¢Äë„
+N	java:S106#"9Replace this use of System.out or System.err by a logger.(”º’Û
+M
+java:S2589"7Remove this expression which always evaluates to "true"(ÿÒ˜û
+R
+java:S2589""7Remove this expression which always evaluates to "true"(õ¦éøûÿÿÿÿ
+Z
+java:S2583"DChange this condition so that it does not always evaluate to "false"(øñĞë
+Y
+java:S2583!"CChange this condition so that it does not always evaluate to "true"(¢Äë„

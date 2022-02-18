@@ -1,0 +1,41 @@
+
+^
+java:S1854/"CRemove this useless assignment to local variable "myNewShortValue".(Ï¯ÑÈúÿÿÿÿ
+]
+java:S1854-"BRemove this useless assignment to local variable "myNewByteValue".(µ¹÷Ôÿÿÿÿÿ
+V
+java:S1854+";Remove this useless assignment to local variable "myTotal".(É¢Öşÿÿÿÿ
+c
+java:S1854)"HRemove this useless assignment to local variable "bigSgortLiteralValue".(™¯øúÿÿÿÿ
+[
+java:S1854"@Remove this useless assignment to local variable "myShortValue".(š¥ò½şÿÿÿÿ
+W
+java:S1854"ARemove this useless assignment to local variable "myMaxItnValue".(âÊÎá
+Q
+java:S1854";Remove this useless assignment to local variable "myValue".(˜ÛÀù
+B
+java:S1481",Remove this unused "myValue" local variable.(˜ÛÀù
+N	java:S106
+"9Replace this use of System.out or System.err by a logger.(””­ö
+N	java:S106"9Replace this use of System.out or System.err by a logger.(„ñ”Š
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ŞàÀÅ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Ş©Š“
+H
+java:S1481"2Remove this unused "myMaxItnValue" local variable.(âÊÎá
+S	java:S106"9Replace this use of System.out or System.err by a logger.(û¹‘ùÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(÷Œµˆ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ì»˜Õ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ëÈ™Ñûÿÿÿÿ
+L
+java:S1481"1Remove this unused "myShortValue" local variable.(š¥ò½şÿÿÿÿ
+S	java:S106""9Replace this use of System.out or System.err by a logger.(½Æüúÿÿÿÿ
+N	java:S106#"9Replace this use of System.out or System.err by a logger.(ßÜİò
+S	java:S106'"9Replace this use of System.out or System.err by a logger.(ËÔã·øÿÿÿÿ
+T
+java:S1481)"9Remove this unused "bigSgortLiteralValue" local variable.(™¯øúÿÿÿÿ
+G
+java:S1481+",Remove this unused "myTotal" local variable.(É¢Öşÿÿÿÿ
+N
+java:S1481-"3Remove this unused "myNewByteValue" local variable.(µ¹÷Ôÿÿÿÿÿ
+O
+java:S1481/"4Remove this unused "myNewShortValue" local variable.(Ï¯ÑÈúÿÿÿÿ

@@ -1,0 +1,29 @@
+
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ôèÆşûÿÿÿÿ
+<	java:S131""Add a default case to this switch.(ë´åİşÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(â‰§©
+S	java:S1060"9Replace this use of System.out or System.err by a logger.(ì÷ã¦ıÿÿÿÿ
+S	java:S1064"9Replace this use of System.out or System.err by a logger.(„®·Ûüÿÿÿÿ
+N	java:S1069"9Replace this use of System.out or System.err by a logger.(ãİË¥
+N	java:S106;"9Replace this use of System.out or System.err by a logger.(ŸìÅå
+S	java:S106?"9Replace this use of System.out or System.err by a logger.(üõÚûÿÿÿÿ
+S	java:S106A"9Replace this use of System.out or System.err by a logger.(ÆêÑ­úÿÿÿÿ
+S	java:S106F"9Replace this use of System.out or System.err by a logger.(ì÷ã¦ıÿÿÿÿ
+S	java:S106J"9Replace this use of System.out or System.err by a logger.(„®·Ûüÿÿÿÿ
+S	java:S106P"9Replace this use of System.out or System.err by a logger.(Æ¥ñ–ûÿÿÿÿ
+S	java:S106R"9Replace this use of System.out or System.err by a logger.(Ä¼Ÿ‰ÿÿÿÿÿ
+N	java:S106W"9Replace this use of System.out or System.err by a logger.(®¾»û
+S	java:S106Y"9Replace this use of System.out or System.err by a logger.(²ı…Çùÿÿÿÿ
+S	java:S106]"9Replace this use of System.out or System.err by a logger.(ûê²éøÿÿÿÿ
+S	java:S106_"9Replace this use of System.out or System.err by a logger.(ÊÕúÿÿÿÿ
+S	java:S106d"9Replace this use of System.out or System.err by a logger.(ì÷ã¦ıÿÿÿÿ
+S	java:S106h"9Replace this use of System.out or System.err by a logger.(„®·Ûüÿÿÿÿ
+S	java:S106m"9Replace this use of System.out or System.err by a logger.(ıíáûÿÿÿÿ
+N	java:S106q"9Replace this use of System.out or System.err by a logger.(«¦ÎÍ
+N	java:S106u"9Replace this use of System.out or System.err by a logger.(ĞÒÑ¬
+M	java:S106v"9Replace this use of System.out or System.err by a logger.(éúÃ
+N	java:S106}"9Replace this use of System.out or System.err by a logger.(íÿüú
+n
+java:S11924"SDefine a constant instead of duplicating this literal "Contact not found." 3 times.(„®·Ûüÿÿÿÿ
+y
+java:S11920"^Define a constant instead of duplicating this literal "Enter existing contact name: " 3 times.(ì÷ã¦ıÿÿÿÿ
